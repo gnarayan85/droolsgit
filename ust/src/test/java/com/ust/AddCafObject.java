@@ -1,8 +1,7 @@
 package com.ust;
 
-import java.io.Serializable;
-
-public class AddCafObject implements Serializable{
+public class AddCafObject implements java.io.Serializable
+{
 	/**
 	 * 
 	 */
